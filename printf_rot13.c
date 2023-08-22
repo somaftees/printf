@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * printf_rot13 - printf str to ROT13 place into buffer
- * @args: type struct va_arg where is allocated printf arguments
- * Return: counter
+ * printf_rot13 - prinnto buffer
+ * @args: type struct vted printf arguments
+ * Return: the counter to be returned
  *
  */
 int printf_rot13(va_list args)
