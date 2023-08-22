@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * printf_bin - prints a binary number.
- * @val: arguments.
- * Return: 1.
+ * printf_bin -a function that prints a binary number.
+ * @val: list.
+ * Return: always 1.
  */
 int printf_bin(va_list val)
 {
