@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * printf_unsigned - prints integer
- * @args: argument to print
- * Return: number of characters printed
+ * printf_unsigned - prteger
+ * @args: argint
+ * Return: numbe ers printed to
  */
 int printf_unsigned(va_list args)
 {
